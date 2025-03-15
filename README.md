@@ -5,13 +5,12 @@ We can use many kinds of local server system to practice SQL codes. Here, are so
 - Wampserver (Windows) Download From Here: [https://sourceforge.net/projects/wampserver/]
 - Mamp (Mac)
 - Lamp (Linux)
-I like to use the Xammp server very much. It is pretty handy and user-friendly. You can also work with other ones if you want.
+<br>I like to use the Xammp server very much. It is pretty handy and user-friendly. You can also work with other ones if you want.
 
 
 ## Installing Xammp and MySQL Bench Marks
 After Installing Xammp, you need to install the MySQL Bench Marks. Download From Here: [https://dev.mysql.com/downloads/workbench/]
-
-Although, it is not mandatory. You can still practice the SQL queries in the phpmyadmin. Using MySQL Bench Marks will be more helpful for you.
+<br>Although, it is not mandatory. You can still practice the SQL queries in the phpmyadmin. Using MySQL Bench Marks will be more helpful for you.
 
 
 
